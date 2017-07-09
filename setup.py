@@ -19,6 +19,6 @@ setup(name='workflow_manager',
       author_email='me@dimitryushakov.com',
       license='MIT',
       packages=['workflow_manager'],
-      setup_requires=['pytest-runner'],
+      setup_requires=['pytest-runner', 'pytest'],
       tests_require=['pytest', 'coverage','pytest-cov'],
       zip_safe=False)
