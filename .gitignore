@@ -1,7 +1,7 @@
 .cache
 __pycache__
 .eggs
-.vscode
+.vscode/
 settings.json
 .coverage
 *.egg-info
