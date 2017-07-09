@@ -1,0 +1,7 @@
+.cache
+__pycache__
+.eggs
+.vscode
+settings.json
+.coverage
+*.egg-info
